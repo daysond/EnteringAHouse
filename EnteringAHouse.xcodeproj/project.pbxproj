@@ -13,6 +13,22 @@
 		EDCB9EE72283660100BDC6E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EE62283660100BDC6E1 /* Assets.xcassets */; };
 		EDCB9EEA2283660100BDC6E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EE82283660100BDC6E1 /* LaunchScreen.storyboard */; };
 		EDCB9EED2283660100BDC6E1 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = EDCB9EEC2283660100BDC6E1 /* main.m */; };
+		EDCB9F022283664900BDC6E1 /* mysterious_lake.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF32283664800BDC6E1 /* mysterious_lake.jpg */; };
+		EDCB9F032283664900BDC6E1 /* bathroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF42283664800BDC6E1 /* bathroom.jpg */; };
+		EDCB9F042283664900BDC6E1 /* stairs_up.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF52283664800BDC6E1 /* stairs_up.jpg */; };
+		EDCB9F052283664900BDC6E1 /* labratory.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF62283664800BDC6E1 /* labratory.jpg */; };
+		EDCB9F062283664900BDC6E1 /* secret_passage.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF72283664800BDC6E1 /* secret_passage.jpg */; };
+		EDCB9F072283664900BDC6E1 /* bedroom.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF82283664800BDC6E1 /* bedroom.jpg */; };
+		EDCB9F082283664900BDC6E1 /* generator.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EF92283664800BDC6E1 /* generator.jpg */; };
+		EDCB9F092283664900BDC6E1 /* library.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EFA2283664800BDC6E1 /* library.jpg */; };
+		EDCB9F0A2283664900BDC6E1 /* dining_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EFB2283664800BDC6E1 /* dining_room.jpg */; };
+		EDCB9F0B2283664900BDC6E1 /* back_porch.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EFC2283664900BDC6E1 /* back_porch.jpg */; };
+		EDCB9F0C2283664900BDC6E1 /* cursed_chalice.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EFD2283664900BDC6E1 /* cursed_chalice.jpg */; };
+		EDCB9F0D2283664900BDC6E1 /* coat_room.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EFE2283664900BDC6E1 /* coat_room.jpg */; };
+		EDCB9F0E2283664900BDC6E1 /* dungeon.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9EFF2283664900BDC6E1 /* dungeon.jpg */; };
+		EDCB9F0F2283664900BDC6E1 /* front_door.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9F002283664900BDC6E1 /* front_door.jpg */; };
+		EDCB9F102283664900BDC6E1 /* kitchen.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EDCB9F012283664900BDC6E1 /* kitchen.jpg */; };
+		EDCB9F1322836E0A00BDC6E1 /* SubViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = EDCB9F1222836E0A00BDC6E1 /* SubViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +42,23 @@
 		EDCB9EE92283660100BDC6E1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		EDCB9EEB2283660100BDC6E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		EDCB9EEC2283660100BDC6E1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		EDCB9EF32283664800BDC6E1 /* mysterious_lake.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mysterious_lake.jpg; sourceTree = "<group>"; };
+		EDCB9EF42283664800BDC6E1 /* bathroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bathroom.jpg; sourceTree = "<group>"; };
+		EDCB9EF52283664800BDC6E1 /* stairs_up.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = stairs_up.jpg; sourceTree = "<group>"; };
+		EDCB9EF62283664800BDC6E1 /* labratory.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = labratory.jpg; sourceTree = "<group>"; };
+		EDCB9EF72283664800BDC6E1 /* secret_passage.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = secret_passage.jpg; sourceTree = "<group>"; };
+		EDCB9EF82283664800BDC6E1 /* bedroom.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bedroom.jpg; sourceTree = "<group>"; };
+		EDCB9EF92283664800BDC6E1 /* generator.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = generator.jpg; sourceTree = "<group>"; };
+		EDCB9EFA2283664800BDC6E1 /* library.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = library.jpg; sourceTree = "<group>"; };
+		EDCB9EFB2283664800BDC6E1 /* dining_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dining_room.jpg; sourceTree = "<group>"; };
+		EDCB9EFC2283664900BDC6E1 /* back_porch.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = back_porch.jpg; sourceTree = "<group>"; };
+		EDCB9EFD2283664900BDC6E1 /* cursed_chalice.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cursed_chalice.jpg; sourceTree = "<group>"; };
+		EDCB9EFE2283664900BDC6E1 /* coat_room.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = coat_room.jpg; sourceTree = "<group>"; };
+		EDCB9EFF2283664900BDC6E1 /* dungeon.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = dungeon.jpg; sourceTree = "<group>"; };
+		EDCB9F002283664900BDC6E1 /* front_door.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = front_door.jpg; sourceTree = "<group>"; };
+		EDCB9F012283664900BDC6E1 /* kitchen.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kitchen.jpg; sourceTree = "<group>"; };
+		EDCB9F1122836E0A00BDC6E1 /* SubViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SubViewController.h; sourceTree = "<group>"; };
+		EDCB9F1222836E0A00BDC6E1 /* SubViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SubViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,8 +95,25 @@
 				EDCB9EDE2283660000BDC6E1 /* AppDelegate.m */,
 				EDCB9EE02283660000BDC6E1 /* ViewController.h */,
 				EDCB9EE12283660000BDC6E1 /* ViewController.m */,
+				EDCB9F1122836E0A00BDC6E1 /* SubViewController.h */,
+				EDCB9F1222836E0A00BDC6E1 /* SubViewController.m */,
 				EDCB9EE32283660000BDC6E1 /* Main.storyboard */,
 				EDCB9EE62283660100BDC6E1 /* Assets.xcassets */,
+				EDCB9EFC2283664900BDC6E1 /* back_porch.jpg */,
+				EDCB9EF42283664800BDC6E1 /* bathroom.jpg */,
+				EDCB9EF82283664800BDC6E1 /* bedroom.jpg */,
+				EDCB9EFE2283664900BDC6E1 /* coat_room.jpg */,
+				EDCB9EFD2283664900BDC6E1 /* cursed_chalice.jpg */,
+				EDCB9EFB2283664800BDC6E1 /* dining_room.jpg */,
+				EDCB9EFF2283664900BDC6E1 /* dungeon.jpg */,
+				EDCB9F002283664900BDC6E1 /* front_door.jpg */,
+				EDCB9EF92283664800BDC6E1 /* generator.jpg */,
+				EDCB9F012283664900BDC6E1 /* kitchen.jpg */,
+				EDCB9EF62283664800BDC6E1 /* labratory.jpg */,
+				EDCB9EFA2283664800BDC6E1 /* library.jpg */,
+				EDCB9EF32283664800BDC6E1 /* mysterious_lake.jpg */,
+				EDCB9EF72283664800BDC6E1 /* secret_passage.jpg */,
+				EDCB9EF52283664800BDC6E1 /* stairs_up.jpg */,
 				EDCB9EE82283660100BDC6E1 /* LaunchScreen.storyboard */,
 				EDCB9EEB2283660100BDC6E1 /* Info.plist */,
 				EDCB9EEC2283660100BDC6E1 /* main.m */,
@@ -128,9 +178,24 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EDCB9F0B2283664900BDC6E1 /* back_porch.jpg in Resources */,
+				EDCB9F0C2283664900BDC6E1 /* cursed_chalice.jpg in Resources */,
+				EDCB9F0D2283664900BDC6E1 /* coat_room.jpg in Resources */,
+				EDCB9F042283664900BDC6E1 /* stairs_up.jpg in Resources */,
+				EDCB9F052283664900BDC6E1 /* labratory.jpg in Resources */,
+				EDCB9F092283664900BDC6E1 /* library.jpg in Resources */,
+				EDCB9F062283664900BDC6E1 /* secret_passage.jpg in Resources */,
 				EDCB9EEA2283660100BDC6E1 /* LaunchScreen.storyboard in Resources */,
 				EDCB9EE72283660100BDC6E1 /* Assets.xcassets in Resources */,
+				EDCB9F022283664900BDC6E1 /* mysterious_lake.jpg in Resources */,
+				EDCB9F0E2283664900BDC6E1 /* dungeon.jpg in Resources */,
+				EDCB9F0A2283664900BDC6E1 /* dining_room.jpg in Resources */,
+				EDCB9F0F2283664900BDC6E1 /* front_door.jpg in Resources */,
 				EDCB9EE52283660000BDC6E1 /* Main.storyboard in Resources */,
+				EDCB9F072283664900BDC6E1 /* bedroom.jpg in Resources */,
+				EDCB9F032283664900BDC6E1 /* bathroom.jpg in Resources */,
+				EDCB9F102283664900BDC6E1 /* kitchen.jpg in Resources */,
+				EDCB9F082283664900BDC6E1 /* generator.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,6 +209,7 @@
 				EDCB9EE22283660000BDC6E1 /* ViewController.m in Sources */,
 				EDCB9EED2283660100BDC6E1 /* main.m in Sources */,
 				EDCB9EDF2283660000BDC6E1 /* AppDelegate.m in Sources */,
+				EDCB9F1322836E0A00BDC6E1 /* SubViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
